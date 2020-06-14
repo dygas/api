@@ -1,0 +1,60 @@
+line 3 column 1 - Warning: meta lacks "content" attribute
+line 15 column 1 - Warning: unknown attribute "nonce"
+line 15 column 1 - Warning: unknown attribute "crossorigin"
+line 15 column 1 - Warning: unknown attribute "as"
+line 16 column 1 - Warning: unknown attribute "nonce"
+line 16 column 1 - Warning: unknown attribute "crossorigin"
+line 16 column 1 - Warning: unknown attribute "as"
+line 17 column 1 - Warning: unknown attribute "nonce"
+line 17 column 1 - Warning: unknown attribute "crossorigin"
+line 17 column 1 - Warning: unknown attribute "as"
+line 18 column 1 - Warning: unknown attribute "nonce"
+line 18 column 1 - Warning: unknown attribute "crossorigin"
+line 18 column 1 - Warning: unknown attribute "as"
+line 19 column 1 - Warning: unknown attribute "nonce"
+line 19 column 1 - Warning: unknown attribute "crossorigin"
+line 19 column 1 - Warning: unknown attribute "as"
+line 20 column 1 - Warning: unknown attribute "property"
+line 21 column 1 - Warning: unknown attribute "property"
+line 23 column 1 - Warning: unknown attribute "crossorigin"
+line 72 column 1 - Warning: unknown attribute "data-rdm"
+line 73 column 1 - Warning: unknown attribute "sizes"
+line 75 column 1 - Warning: unknown attribute "sizes"
+line 84 column 1 - Warning: <style> lacks "type" attribute
+line 85 column 1 - Warning: <style> lacks "type" attribute
+line 138 column 148 - Warning: unknown attribute "aria-label"
+line 138 column 253 - Error: <svg> is not recognized!
+line 138 column 253 - Warning: discarding unexpected <svg>
+line 138 column 416 - Error: <g> is not recognized!
+line 138 column 416 - Warning: discarding unexpected <g>
+line 138 column 419 - Error: <path> is not recognized!
+line 138 column 419 - Warning: discarding unexpected <path>
+line 138 column 1 034 - Warning: discarding unexpected </path>
+line 138 column 1 041 - Warning: discarding unexpected </g>
+line 138 column 1 045 - Warning: discarding unexpected </svg>
+line 138 column 1 051 - Warning: trimming empty <div>
+line 138 column 1 186 - Warning: <div> attribute "dir" has invalid value "auto"
+line 138 column 1 250 - Warning: <span> attribute "dir" has invalid value "auto"
+line 139 column 1 - Warning: unknown attribute "nonce"
+line 139 column 1 - Warning: <script> lacks "type" attribute
+line 143 column 1 - Warning: unknown attribute "nonce"
+line 143 column 1 - Warning: <script> lacks "type" attribute
+line 146 column 1 - Warning: unknown attribute "nonce"
+line 151 column 1 - Warning: unknown attribute "crossorigin"
+line 151 column 1 - Warning: unknown attribute "nonce"
+line 152 column 1 - Warning: unknown attribute "crossorigin"
+line 152 column 1 - Warning: unknown attribute "nonce"
+line 153 column 1 - Warning: unknown attribute "crossorigin"
+line 153 column 1 - Warning: unknown attribute "nonce"
+line 154 column 1 - Warning: unknown attribute "crossorigin"
+line 154 column 1 - Warning: unknown attribute "nonce"
+line 155 column 1 - Warning: unknown attribute "crossorigin"
+line 155 column 1 - Warning: unknown attribute "nonce"
+line 156 column 1 - Warning: unknown attribute "nonce"
+line 156 column 1 - Warning: <script> lacks "type" attribute
+line 161 column 1 - Warning: inserting missing 'title' element
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+52 warnings, 3 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
